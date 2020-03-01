@@ -1,6 +1,6 @@
 using System;
 
-namespace Airplane.Web
+namespace AirplaneProject.Web
 {
     public class WeatherForecast
     {
